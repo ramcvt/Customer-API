@@ -1,0 +1,14 @@
+E:\Ram\CaseStudy\CustomerIdentityAPI\CustomerIdentityAPI\bin\Debug\netcoreapp2.2\CustomerIdentityAPI.deps.json
+E:\Ram\CaseStudy\CustomerIdentityAPI\CustomerIdentityAPI\bin\Debug\netcoreapp2.2\CustomerIdentityAPI.runtimeconfig.json
+E:\Ram\CaseStudy\CustomerIdentityAPI\CustomerIdentityAPI\bin\Debug\netcoreapp2.2\CustomerIdentityAPI.runtimeconfig.dev.json
+E:\Ram\CaseStudy\CustomerIdentityAPI\CustomerIdentityAPI\bin\Debug\netcoreapp2.2\CustomerIdentityAPI.dll
+E:\Ram\CaseStudy\CustomerIdentityAPI\CustomerIdentityAPI\obj\Debug\netcoreapp2.2\CustomerIdentityAPI.csprojAssemblyReference.cache
+E:\Ram\CaseStudy\CustomerIdentityAPI\CustomerIdentityAPI\obj\Debug\netcoreapp2.2\CustomerIdentityAPI.csproj.CoreCompileInputs.cache
+E:\Ram\CaseStudy\CustomerIdentityAPI\CustomerIdentityAPI\obj\Debug\netcoreapp2.2\CustomerIdentityAPI.RazorAssemblyInfo.cache
+E:\Ram\CaseStudy\CustomerIdentityAPI\CustomerIdentityAPI\obj\Debug\netcoreapp2.2\CustomerIdentityAPI.RazorAssemblyInfo.cs
+E:\Ram\CaseStudy\CustomerIdentityAPI\CustomerIdentityAPI\obj\Debug\netcoreapp2.2\CustomerIdentityAPI.AssemblyInfoInputs.cache
+E:\Ram\CaseStudy\CustomerIdentityAPI\CustomerIdentityAPI\obj\Debug\netcoreapp2.2\CustomerIdentityAPI.AssemblyInfo.cs
+E:\Ram\CaseStudy\CustomerIdentityAPI\CustomerIdentityAPI\obj\Debug\netcoreapp2.2\CustomerIdentityAPI.RazorTargetAssemblyInfo.cache
+E:\Ram\CaseStudy\CustomerIdentityAPI\CustomerIdentityAPI\bin\Debug\netcoreapp2.2\CustomerIdentityAPI.pdb
+E:\Ram\CaseStudy\CustomerIdentityAPI\CustomerIdentityAPI\obj\Debug\netcoreapp2.2\CustomerIdentityAPI.dll
+E:\Ram\CaseStudy\CustomerIdentityAPI\CustomerIdentityAPI\obj\Debug\netcoreapp2.2\CustomerIdentityAPI.pdb
